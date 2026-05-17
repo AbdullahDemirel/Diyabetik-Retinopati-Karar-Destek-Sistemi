@@ -1,6 +1,6 @@
 # 👁️ Açıklanabilir Derin Öğrenme Tabanlı Diyabetik Retinopati Karar Destek Sistemi
 
-> **İnönü Üniversitesi · Bilgisayar Mühendisliği · Yapay Zeka Dersi Dönem Projesi**
+
 
 Bu proje; diyabet hastalarında körlüğe yol açabilen Diyabetik Retinopati (DR) hastalığının, göz dibi (retina) fotoğrafları üzerinden yapay zeka ile otomatik, 5 evreli sınıflandırılmasını ve karar mekanizmasının hekime görsel olarak açıklanmasını sağlayan klinik bir karar destek sistemidir.
 
